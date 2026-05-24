@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-classic
+langchain-groq
+langchain-google-genai
+langchain-text-splitters
+sentence-transformers
+chromadb
+groq
+python-dotenv
+rank-bm25
